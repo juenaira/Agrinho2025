@@ -5,14 +5,14 @@
 }
 /* setup das variaveis*/
 :root {
-  --verde-fundo: #000000;
+  --verde-fundo: #ffffff;
   --branco-principal: #ffffff;
   --fonte-principal: "Lustria";
   --verde-principal: #1a5738;
   --azul-principal: #3e77a0;
   --verde-secundario: #1a5738;
   --link: #2a4979;
-  --preto-titulo: #ffffff;
+  --preto-titulo: #000000;
 }
 
 /* configurações do corpo como fontes e cores*/
